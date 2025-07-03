@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monreal_parcial2/static/css/main.d27b54ef.css",
-    "main.js": "/monreal_parcial2/static/js/main.b47d5411.js",
-    "static/js/453.b62619fe.chunk.js": "/monreal_parcial2/static/js/453.b62619fe.chunk.js",
-    "index.html": "/monreal_parcial2/index.html",
-    "main.d27b54ef.css.map": "/monreal_parcial2/static/css/main.d27b54ef.css.map",
-    "main.b47d5411.js.map": "/monreal_parcial2/static/js/main.b47d5411.js.map",
-    "453.b62619fe.chunk.js.map": "/monreal_parcial2/static/js/453.b62619fe.chunk.js.map"
+    "main.css": "/Monreal_parcial2/static/css/main.d27b54ef.css",
+    "main.js": "/Monreal_parcial2/static/js/main.b2b6e760.js",
+    "static/js/453.b62619fe.chunk.js": "/Monreal_parcial2/static/js/453.b62619fe.chunk.js",
+    "index.html": "/Monreal_parcial2/index.html",
+    "main.d27b54ef.css.map": "/Monreal_parcial2/static/css/main.d27b54ef.css.map",
+    "main.b2b6e760.js.map": "/Monreal_parcial2/static/js/main.b2b6e760.js.map",
+    "453.b62619fe.chunk.js.map": "/Monreal_parcial2/static/js/453.b62619fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d27b54ef.css",
-    "static/js/main.b47d5411.js"
+    "static/js/main.b2b6e760.js"
   ]
 }
