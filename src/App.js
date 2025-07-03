@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img 
+        src="https://cdn.pixabay.com/photo/2017/09/06/22/34/student-2724414_960_720.png"
+        alt="alumna" 
+        className="student-img"
+      />
+      <h2>JUAN PÉREZ SOSA - EXAMEN PARCIAL 2</h2>
+      <a 
+        href="https://utd.edu.mx"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        UNIVERSIDAD TECNOLÓGICA DE DURANGO - CLICK PARA VISITAR EL SITIO
+      </a>
     </div>
   );
 }
